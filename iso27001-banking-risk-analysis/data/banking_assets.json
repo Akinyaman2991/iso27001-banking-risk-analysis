@@ -1,0 +1,30 @@
+[
+  {
+    "asset_id": "AST-CORE-01",
+    "asset_name": "Mainframe Core Banking Database",
+    "category": "Core Financial Infrastructure",
+    "owner": "Core Banking Ops",
+    "asset_value": 5.0
+  },
+  {
+    "asset_id": "AST-SWIFT-01",
+    "asset_name": "SWIFT Alliance Gateway Server",
+    "category": "Payment Systems",
+    "owner": "International Operations",
+    "asset_value": 5.0
+  },
+  {
+    "asset_id": "AST-MOB-01",
+    "asset_name": "Mobile Banking Authentication API",
+    "category": "Digital Channels",
+    "owner": "IAM & Digital Banking",
+    "asset_value": 4.5
+  },
+  {
+    "asset_id": "AST-ATM-01",
+    "asset_name": "ATM Switch Controller & Fleet",
+    "category": "ATM Infrastructure",
+    "owner": "ATM Operations",
+    "asset_value": 4.0
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "Core Financial Infrastructure": [
+    {
+      "id": "THR-01",
+      "name": "Unauthorized Database Access / Insider Threat",
+      "threat_score": 4.5,
+      "vulnerability_score": 4.0,
+      "iso_control": "A.8.2",
+      "bddk_clause": "Madde 9 (Erişim Hakları)"
+    }
+  ],
+  "Payment Systems": [
+    {
+      "id": "THR-02",
+      "name": "SWIFT Payment Payload Tampering / MITM",
+      "threat_score": 5.0,
+      "vulnerability_score": 4.5,
+      "iso_control": "A.8.24",
+      "bddk_clause": "Madde 14 (Veri Şifreleme)"
+    }
+  ],
+  "Digital Channels": [
+    {
+      "id": "THR-03",
+      "name": "Credential Stuffing & Distributed Bot Attack",
+      "threat_score": 4.5,
+      "vulnerability_score": 3.5,
+      "iso_control": "A.8.5",
+      "bddk_clause": "Madde 8 (Kimlik Doğrulama)"
+    }
+  ],
+  "ATM Infrastructure": [
+    {
+      "id": "THR-04",
+      "name": "ATM Malware Injection / Jackpotted Cash Extraction",
+      "threat_score": 4.0,
+      "vulnerability_score": 3.0,
+      "iso_control": "A.8.8",
+      "bddk_clause": "Madde 22 (Sızma Testleri)"
+    }
+  ]
+}
